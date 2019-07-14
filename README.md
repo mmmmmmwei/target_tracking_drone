@@ -1,9 +1,11 @@
 # Target detection and tracking for drone
 
-Target (circle) Tracking with simulated AR drone in ROS by using Gazebo simulator.
+*Target detection and tracking with simulated AR drone in ROS.
 
 ***Reference: "Visual control of the Parrot drone with OpenCV, ROS and Gazebo Simulator " by Artur Banach
 http://repositorio.upct.es/bitstream/handle/10317/5442/pfc6362.pdf?sequence=1&isAllowed=y
+
+----------------------------------------------------------------------------------------------------------
 
 OpenCV + ardrone_autonomy + Gazebo 7
 Ubuntu 1604, ROS Kinetic
