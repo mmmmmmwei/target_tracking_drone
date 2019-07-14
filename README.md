@@ -5,6 +5,9 @@ Target detection and tracking with simulated AR drone in ROS.
 ***Reference: "Visual control of the Parrot drone with OpenCV, ROS and Gazebo Simulator " by Artur Banach
 http://repositorio.upct.es/bitstream/handle/10317/5442/pfc6362.pdf?sequence=1&isAllowed=y
 
+Youtube tutorial:
+https://www.youtube.com/watch?v=EZdIbBrY1l0
+
 ----------------------------------------------------------------------------------------------------------
 
 OpenCV + ardrone_autonomy + Gazebo 7
