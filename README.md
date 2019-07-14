@@ -61,7 +61,8 @@ $ cd ~/ardrone_simulator
 $ catkin build
 
 
-4) If no error, run the node
+4) If no error, run the node.
+
 Open 4 terminal
 
 Terminal 1:
