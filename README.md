@@ -8,7 +8,11 @@ http://repositorio.upct.es/bitstream/handle/10317/5442/pfc6362.pdf?sequence=1&is
 Youtube tutorial:
 https://www.youtube.com/watch?v=EZdIbBrY1l0
 
-----------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
+This is a ROS package and should be located in /src folder in ardrone workspace that was created during the installation of ardrone autonomy.
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 OpenCV + ardrone_autonomy + Gazebo 7
 Ubuntu 1604, ROS Kinetic
@@ -22,7 +26,7 @@ https://ardrone-autonomy.readthedocs.io/en/latest/
 cv_camera-access USB/laptop built-in webcam
 http://wiki.ros.org/cv_camera
 
-----------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
 
 1) Install tum_simulator
 https://github.com/angelsantamaria/tum_simulator
